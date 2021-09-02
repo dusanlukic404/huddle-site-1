@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-huddle-website-with-alternating-feature-cards-_v2yf9INE)
-- Live Site URL: [](https://huddlewebsite.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-huddle-website-with-alternating-feature-cards-_v2yf9INE)
+- Live Site URL: [Live Site](https://huddlewebsite.netlify.app/)
 
 ## My process
 
