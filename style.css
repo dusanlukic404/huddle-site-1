@@ -297,7 +297,7 @@ svg:hover {
 
 /* Footer */
 
-footer {
+footer, .author {
   background-color: var(--dark-cyan);
   color: var(--pale-cyan);
 }
